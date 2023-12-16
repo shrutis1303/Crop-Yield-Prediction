@@ -1,4 +1,4 @@
 # Crop-Yield-Prediction
-crop yield prediction model using machine learning algorithm 
+crop yield prediction model using machine learning algorithm with python
 
 
